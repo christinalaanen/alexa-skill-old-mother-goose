@@ -1,0 +1,26 @@
+RhymeIntent what is the rhyme for {Item}
+RhymeIntent {Item}
+RhymeIntent tell me {Item}
+RhymeIntent recite {Item}
+RhymeIntent recite to me {Item}
+RhymeIntent sing to me {Item}
+RhymeIntent what is {Item}
+RhymeIntent what are the words for {Item}
+
+RandomIntent random
+RandomIntent random rhyme
+RandomIntent tell me a random rhyme
+RandomIntent tell me random
+RandomIntent tell me random rhyme
+RandomIntent recite random
+RandomIntent recite to me random
+RandomIntent anything
+RandomIntent you pick
+RandomIntent pick for me
+RandomIntent you choose
+
+ListIntent list
+ListIntent give me a list
+ListIntent what rhymes do you know
+ListIntent list of rhymes
+ListIntent list all rhymes
